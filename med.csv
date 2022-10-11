@@ -1,0 +1,11 @@
+medID,med_name,company,manf_year,exp_date,quantity_in_stock,sales
+1,crocin,prajjwal,2018,1/1/2019,8,22
+2,paracetamol,prajjwal,2017,11/8/2020,7,23
+3,soframycin,ishit,2020,9/14/2022,27,3
+4,honeytus,ishit,2023,7/22/2024,3,27
+5,benzyl peroxide,prajjwal,2022,5/28/2026,13,17
+6,vicks,deepak,2025,4/4/2027,29,1
+7,laughter,prajjwal,2021,2/8/2029,23,7
+8,dolo,deepak,2017,12/16/2020,29,1
+9,betadine,ishit,2012,10/22/2018,7,23
+10,chericof,deepak,2021,8/29/2022,30,0
