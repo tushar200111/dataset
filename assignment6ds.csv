@@ -1,0 +1,21 @@
+Country,Continent,Year,LifeExp,Pop,gdpPerc
+India,Asia,2000,73,85,10
+India,Asia,2001,73,90,20
+India,Asia,2002,73,95,18
+Jamaica,North America,2003,72,7,13
+USA,North America,2004,81,61,17
+Canada,North America,2005,78,20,17.7
+Egypt,Africa,2006,69,15,18.4
+Swizerland,Europe,2007,83,7,19.1
+Denmark,Europe,2008,79,6,19.8
+Bhutan,Asia,2009,62,1,20.5
+India,Asia,2010,73,100,21.2
+Jamaica,North America,2011,72,9,21.9
+USA,North America,2012,81,65,22.6
+Canada,North America,2013,78,24,23.3
+USA,North America,2014,81,59,24
+Canada,North America,2015,78,43,24.7
+Egypt,Africa,2016,66,37,25.4
+Swizerland,Europe,2017,65,28,26.1
+Denmark,Europe,2018,84,29,26.8
+Bhutan,Asia,2019,77,44,27.5
